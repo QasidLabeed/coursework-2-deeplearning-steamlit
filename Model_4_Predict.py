@@ -17,6 +17,7 @@ from sklearn.metrics import (confusion_matrix, precision_recall_curve, auc,
 
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
+
 X_test = None
 y_test = None
 
